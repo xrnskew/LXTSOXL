@@ -2,9 +2,9 @@
 <h3 align="center">🚀 <i>Front‑End Developer</i> from Russia</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-00D1B2?style=for-the-badge&logo=react&logoColor=white&effect=neon" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&effect=neon" />
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=000000&effect=neon" />
+  <img src="https://img.shields.io/badge/React-00D1B2?style=for-the-badge&logo=react&logoColor=white&effect=neon" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&effect=neon" />
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white&effect=neon" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&effect=neon" />
@@ -40,8 +40,8 @@
 
 ### 💬 Get in Touch
 
-- 📩 Email: `lxstsoxlout@gmail.com` 
-- 🌐 Telegram: `@LXSTSOXL`  
+- 📩 Email: `xrnskew@icloud.com` 
+- 🌐 Telegram: `@xrnskew`  
 
 ---
 
