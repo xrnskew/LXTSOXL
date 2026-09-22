@@ -26,14 +26,6 @@
 
 ---
 
-### 🏆 Professional Achievements
-
-<p align="center">
-  <a href="https://www.codewars.com/users/LXTSOXL">
-    <img src="https://www.codewars.com/users/LXTSOXL/badges/large" alt="Codewars" width="400" />
-  </a>
-</p>
-
 > «Development is not just about writing code. It's about solving problems and creating meaningful user experiences.»
 
 ---
