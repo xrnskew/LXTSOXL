@@ -1,46 +1,49 @@
-<h1 align="center">Hello, I'm Alex</h1>
-<h3 align="center">🚀 <i>Front‑End Developer</i> from Russia</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2b2b2b,100:6e6e6e&height=200&section=header&text=Hello,%20I'm%20Alex&fontSize=46&fontColor=f5f5f5&animation=fadeIn&fontAlignY=36&desc=Front-End%20Developer%20from%20Russia&descSize=18&descAlignY=56&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&effect=neon" />
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=000000&effect=neon" />
-  <img src="https://img.shields.io/badge/React-00D1B2?style=for-the-badge&logo=react&logoColor=white&effect=neon" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&effect=neon" />
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white&effect=neon" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&effect=neon" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&effect=neon" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&effect=neon" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&effect=neon" />
+  <img src="https://cdn.simpleicons.org/javascript/9a9a9a" height="36" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/9a9a9a" height="36" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/9a9a9a" height="36" alt="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/9a9a9a" height="36" alt="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/9a9a9a" height="36" alt="Git" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/9a9a9a" height="36" alt="GitHub" />
 </p>
 
----
+<br/>
 
-### 🌱 Professional Skills and Expertise
+## `~/skills`
 
-- Developing interactive user interfaces with **JavaScript** and **TypeScript**
-- Building scalable applications using **React** and **Next.js** — components, state management, hooks, context API, server-side rendering
-- Implementing responsive and accessible layouts with **HTML and CSS** — semantic markup, Flexbox, Grid, animations
-- Managing containerized environments with **Docker** — setting up development environments, orchestrating services
-- Using **Git** and **GitHub** for version control and collaborative workflows
-- Applying modern development practices — code optimization, performance tuning, cross‑browser compatibility, type safety with TypeScript
+**▹ JavaScript**<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Developing interactive user interfaces</sub>
 
----
+**▹ React**<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Building scalable applications — components, state management, hooks, context API</sub>
 
-> «Development is not just about writing code. It's about solving problems and creating meaningful user experiences.»
+**▹ HTML & CSS**<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Responsive and accessible layouts — semantic markup, Flexbox, Grid, animations</sub>
 
----
+**▹ Git & GitHub**<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Version control and collaborative workflows</sub>
 
-### 💬 Get in Touch
+**▹ Modern Practices**<br/>
+<sub>&nbsp;&nbsp;&nbsp;&nbsp;Code optimization, performance tuning, cross-browser compatibility</sub>
 
-- 📩 Email: `xrnskew@icloud.com` 
-- 🌐 Telegram: `@xrnskew`  
-
----
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lxtsoxl&label=Profile%20views&color=00BFFF&style=flat&effect=neon" alt="lxtsoxl" />
+  <i>«Development is not just about writing code.<br/>It's about solving problems and creating meaningful user experiences.»</i>
 </p>
 
+<br/>
+
+## `~/contact`
+
 <p align="center">
-  <i>«Coding is not just about logic. It's also an art.»</i>
+  <a href="mailto:xrnskew@icloud.com"><img src="https://img.shields.io/badge/xrnskew@icloud.com-1a1a1a?style=flat-square&logo=maildotru&logoColor=e0e0e0" alt="Email" /></a>&nbsp;&nbsp;<a href="https://t.me/xrnskew"><img src="https://img.shields.io/badge/@xrnskew-1a1a1a?style=flat-square&logo=telegram&logoColor=e0e0e0" alt="Telegram" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lxtsoxl&label=profile%20views&color=555555&style=flat-square&labelColor=1a1a1a" alt="Profile views" />
 </p>
